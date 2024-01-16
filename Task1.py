@@ -1,12 +1,3 @@
-# def findKthLargest(nums):
-#         res=0
-#         for i in range(k):
-#             res = max(nums)
-#             nums.remove(res)
-#         return res
-
-# print()
-
 def merge(l1,l2):
     i,j,combined=0,0,[]
 
